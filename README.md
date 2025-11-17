@@ -48,9 +48,7 @@
     College: POLINES<br/>
   </p>
   <p>
-    Lorem Ipsum.<br/>
-    Lorem Ipsum.<br/><br/>
-    Lorem Ipsum.<br/>
+    
   </p>
 </div>
 
