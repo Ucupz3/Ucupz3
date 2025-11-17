@@ -10,6 +10,8 @@
 </div>
 <br>
 
+---
+
 <h3 align="center">
   <samp>&gt; Hi, I am
     <b><a target="_blank" href="#">Ricky Hartono</a></b>
