@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- <!--   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px; width: 40%;"> -->
-  <img src="https://www.kelche.co/images/gopher/dancing-gopher.gif" alt="Dancing Gopher" style="float: right; margin-left: 10px;">
+  <div class="tenor-gif-embed" data-postid="25325059" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mega-man-megaman-accords-hype-megaman-hype-its-happening-gif-gif-25325059">Mega Man Megaman Accords GIF</a>from <a href="https://tenor.com/search/mega+man-gifs">Mega Man GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <hr>
