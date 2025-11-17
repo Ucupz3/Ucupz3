@@ -23,9 +23,7 @@
   </samp>
 </p>
 
----
 
-## 🎮 About Me  
 <div align="center">
 
 ✨ Name : **Ricky Hartono**  
@@ -34,10 +32,6 @@
 🎓 College : **Politeknik Negeri Semarang (POLINES)**  
 
 </div>
-
----
-
-## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/yusuf-ricky-h-629491226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
