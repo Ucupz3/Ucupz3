@@ -11,7 +11,9 @@
 <br>
 
 <h3 align="center">
-Hello there! I'm Ricky Hartono
+  <samp>&gt; Hi, I am
+    <b><a target="_blank" href="#">Ricky Hartono</a></b>
+  </samp>
 </h3>
 
 <p align="center">
