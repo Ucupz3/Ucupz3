@@ -20,10 +20,12 @@ Hello there! I'm Ricky Hartono
 
 
 <div align="center">
+   
 ✨ Name : **Ricky Hartono**  
 🧿 Alias : **truecupzz / Ucupz3**  
 🎂 Age : **18**  
 🎓 College : **Politeknik Negeri Semarang (POLINES)**  
+
 </div>
 <br>
 <p align="center">
