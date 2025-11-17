@@ -18,16 +18,15 @@ Hello there! I'm Ricky Hartono
   Rabu — Jumat — Minggu : LIBUR 😎
 </p>
 
-
 <div align="center">
-   
 ✨ Name : **Ricky Hartono**  
 🧿 Alias : **truecupzz / Ucupz3**  
 🎂 Age : **18**  
 🎓 College : **Politeknik Negeri Semarang (POLINES)**  
-
 </div>
+
 <br>
+
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/yusuf-ricky-h-629491226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,25 +38,22 @@ Hello there! I'm Ricky Hartono
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,nodejs,html,css,tailwind,vscode,git&theme=light" />
 </p>
 
----
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ucupz3&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucupz3&layout=compact&theme=radical&hide_border=true" />
 </div>
 
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ucupz3&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
----
-  
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" />
 </div>
