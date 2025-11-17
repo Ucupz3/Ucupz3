@@ -4,7 +4,12 @@
 
 <p align="center">
 <!-- <!--   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px; width: 40%;"> -->
-  <div class="tenor-gif-embed" data-postid="25325059" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mega-man-megaman-accords-hype-megaman-hype-its-happening-gif-gif-25325059">Mega Man Megaman Accords GIF</a>from <a href="https://tenor.com/search/mega+man-gifs">Mega Man GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img 
+  src="https://media.tenor.com/3ZUMN6R6PqYAAAAC/retro-winning.gif" 
+  alt="Retro Winning GIF"
+  style="width:100%; max-width:300px;"
+>
+
 </p>
 
 <hr>
