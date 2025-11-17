@@ -16,9 +16,11 @@
   </samp>
 </h3>
 
-<p align="center">
-  Rabu — Jumat — Minggu : LIBUR 😎
-</p>
+<h3 align="center">
+  <samp>&gt; Rabu, Jumat, Minggu
+    <b><a target="_blank" href="#">Libur</a></b>
+  </samp>
+</h3>
 
 
 <div align="center">
