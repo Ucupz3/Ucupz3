@@ -12,9 +12,7 @@
 <br/>
 
 <h2 align="center">
-  <samp>&gt; Hello there! I'm  
-    <b><a target="_blank" href="#">Ricky Hartono</a></b>
-  </samp>
+Hello there! I'm Ricky Hartono
 </h2>
 
 <p align="center">
