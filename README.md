@@ -4,12 +4,7 @@
 
 <p align="center">
 <!-- <!--   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px; width: 40%;"> -->
-  <img 
-  src="https://media.tenor.com/3ZUMN6R6PqYAAAAC/retro-winning.gif" 
-  alt="Retro Winning GIF"
-  style="width:100%; max-width:300px;"
->
-
+  <img src="https://tenor.com/view/16-bit-mario-cape-running-walking-gif-14228313619232075407" alt="16-bit Mario running" />
 </p>
 
 <hr>
