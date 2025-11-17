@@ -16,7 +16,7 @@ Hello there! I'm Ricky Hartono
 </h2>
 
 <p align="center">
-  Rabu — Jumat — Minggu : LIBUR 😎</b>
+  Rabu — Jumat — Minggu : LIBUR 😎
 </p>
 
 
