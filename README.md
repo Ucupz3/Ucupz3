@@ -16,28 +16,19 @@
 </h3>
 
 <p align="center">
-  <a href="https://nxrts.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website Badge">
-  </a>
-  <a href="https://linkedin.com/in/muhammad-yusuf-arrofi-a26140299/" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/yusuf-ricky-h-629491226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/MYArrofi" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
-  </a>
-  <a href="https://www.instagram.com/my_arrofi/" target="_blank">
+  <a href="https://www.instagram.com/truecupzz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://open.spotify.com/user/316j463posxxpcx5sfcacxrfz7em" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge">
-  </a>
-  <a href="https://github.com/NXRts" target="_blank">
+  <a href="https://github.com/Ucupz3" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
 <h3 align="center">
-  <samp>&gt; Lorem Ipsum.
+  <samp>&gt; Rabu, Jumat, Minggu
     <b><a target="_blank" href="#">Libur</a></b>
   </samp>
 </h3>
