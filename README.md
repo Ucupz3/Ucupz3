@@ -16,6 +16,7 @@
     <b><a target="_blank" href="#">Ricky Hartono</a></b>
   </samp>
 </h2>
+
 <p align="center">
   <samp>
     <b>Rabu — Jumat — Minggu : LIBUR 😎</b>
@@ -43,6 +44,7 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,nodejs,html,css,tailwind,vscode,git&theme=light" />
 </p>
