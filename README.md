@@ -17,14 +17,7 @@
     <b><a target="_blank" href="#">Ricky Hartono</a></b>
   </samp>
 </h3>
-
-<h3 align="center">
-  <samp>&gt; Rabu, Jumat, Minggu
-    <b><a target="_blank" href="#">Libur</a></b>
-  </samp>
-</h3>
-
-
+<br>
 <div align="center">
    
 ✨ Name : **Ricky Hartono**  
