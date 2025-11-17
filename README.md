@@ -84,8 +84,8 @@
 ## Github Statistic:
   <p align="center">
     <a href="https://github.com/Ucupz3">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NXRts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="NXRts"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical" alt="NXRts"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ucupz3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ucupz3"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ucupz3&layout=compact&langs_count=8&theme=radical" alt="Ucupz3"/>
     </a>
   </p>
 
