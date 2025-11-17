@@ -16,7 +16,6 @@
     <b><a target="_blank" href="#">Ricky Hartono</a></b>
   </samp>
 </h2>
-
 <p align="center">
   <samp>
     <b>Rabu — Jumat — Minggu : LIBUR 😎</b>
@@ -32,6 +31,7 @@
 🎓 College : **Politeknik Negeri Semarang (POLINES)**  
 
 </div>
+
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/yusuf-ricky-h-629491226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
