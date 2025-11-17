@@ -43,17 +43,11 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🧰 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,nodejs,html,css,tailwind,vscode,git&theme=light" />
 </p>
 
 ---
-
-## 📊 GitHub Analytics  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ucupz3&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucupz3&layout=compact&theme=radical&hide_border=true" />
