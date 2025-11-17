@@ -8,6 +8,7 @@
   <img src="mega-man.gif" width="200" alt="Mega man Jumping">
   <img src="16-bit-mario.gif" width="200" alt="16-bit Mario running">
 </div>
+<br>
 
 <h2 align="center">
 Hello there! I'm Ricky Hartono
@@ -19,12 +20,10 @@ Hello there! I'm Ricky Hartono
 
 
 <div align="center">
-
 ✨ Name : **Ricky Hartono**  
 🧿 Alias : **truecupzz / Ucupz3**  
 🎂 Age : **18**  
 🎓 College : **Politeknik Negeri Semarang (POLINES)**  
-
 </div>
 <br>
 <p align="center">
