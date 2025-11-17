@@ -9,8 +9,6 @@
   <img src="16-bit-mario.gif" width="200" alt="16-bit Mario running">
 </div>
 
-<br/>
-
 <h2 align="center">
 Hello there! I'm Ricky Hartono
 </h2>
