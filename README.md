@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- <!--   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px; width: 40%;"> -->
-  <img src="mario.gif" width="200" alt="16-bit Mario running">
+  <img src="16-bit-mario.gif" width="200" alt="16-bit Mario running">
 </p>
 
 <hr>
