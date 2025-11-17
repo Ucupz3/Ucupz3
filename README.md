@@ -54,8 +54,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ucupz3&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
-
----
   
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" />
