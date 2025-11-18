@@ -39,7 +39,8 @@
   </a>
 </p>
 <br>
-<p align="center">
+<p>
+<brp align="center">
   <img src="https://skillicons.dev/icons?i=php,js,nodejs,html,css,tailwind,vscode,git&theme=light" />
 </p>
 
@@ -54,6 +55,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ucupz3&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
+<br>
 <br>
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" />
